@@ -62,7 +62,7 @@ Paste your 64-character VirusTotal API key inside the double quotation marks (`"
 
 
 ```text
-192.168.29.134
+192.168.21.134
 8.8.8.8
 185.220.101.1
 
